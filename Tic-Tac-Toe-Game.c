@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 #include <string.h>
-
 // Function declarations
 static void singlePlayerMode();
 static void twoPlayerMode();
